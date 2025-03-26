@@ -13,7 +13,7 @@ A Visual Studio Code extension designed to help users manage and maintain the st
         "vscode": {
             "extensions": [
                 ...,
-                "gbraad.systemd-services-manager"
+                "gbraad.systemd-universal-manager"
             ]
         }
     }
