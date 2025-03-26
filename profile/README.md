@@ -11,7 +11,7 @@ How to run `code serveweb` and `code tunnel` as systemd services
 
 ## Extensions
 
-### WIP [systemd Services Manager](https://github.com/gbraad-vscode/systemd-services-manager)
+### WIP [systemd Universal Manager](https://github.com/gbraad-vscode/systemd-services-manager)
 
 A Visual Studio Code extension designed to help users manage and maintain the state of systemd services and units on their host systems. 
 
