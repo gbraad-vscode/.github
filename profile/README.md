@@ -29,6 +29,16 @@ A Visual Studio Code extension designed to help users manage and maintain the st
  - [Open VSX Registry](https://open-vsx.org/extension/gbraad/systemd-universal-manager)
  - [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=gbraad.systemd-universal-manager)
 
+### [Dotfiles checker](https://github.com/gbraad-vscode/dotfiles-checker/)
+
+An extension that checks for and install my personal dotfiles
+
+
+### [Dotfiles tools](https://github.com/gbraad-vscode/dotfiles-tools/)
+
+An extension that automates `devenv.zsh` and `machine.zsh`.
+
+
 ## Features
 
 ### Tailscale
