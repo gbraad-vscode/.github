@@ -56,7 +56,7 @@ After which it is possible to use `tailscale up`.
 
 ### [`code-serveweb-action`](https://github.com/gbraad-actions/code-serveweb-action)
 
-```json
+```yaml
     - name: Code serve web
       if: ${{ failure() }}
       uses: gbraad-actions/code-serveweb-action@v1
@@ -64,7 +64,7 @@ After which it is possible to use `tailscale up`.
 
 ### [`code-tunnel-action`](https://github.com/gbraad-actions/code-tunnel-action)
 
-```json
+```yaml
     - name: Code tunnel
       if: ${{ failure() }}
       uses: gbraad-actions/code-tunnel-action@v1
