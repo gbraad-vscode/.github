@@ -19,8 +19,8 @@ A Visual Studio Code extension designed to help users manage and maintain the st
     }
 ```
 
- - [Open VSX Registry](https://open-vsx.org/extension/gbraad/systemd-services-manager)
- - [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=gbraad.systemd-services-manager)
+ - [Open VSX Registry](https://open-vsx.org/extension/gbraad/systemd-universal-manager)
+ - [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=gbraad.systemd-universal-manager)
 
 ## Features
 
