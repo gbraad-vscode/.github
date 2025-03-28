@@ -4,7 +4,7 @@ Gerard Braad's VScode related repositories
 
 ## Instructions
 
-### [`code` as systemd](https://github.com/gbraad-vscode/code-systemd) services
+### Run [`code` as systemd](https://github.com/gbraad-vscode/code-systemd) services
 
 How to run `code serveweb` and `code tunnel` as systemd services
 
