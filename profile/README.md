@@ -52,6 +52,11 @@ An extension that automates `devenv.zsh` and `machine.zsh`.
 After which it is possible to use `tailscale up`.
 
 
+### Run with `systemd`-enabled
+
+To know how to run devcontainers on CodeSpaces with `systemd` enabled, have a look here: https://github.com/orgs/community/discussions/68954#discussioncomment-11812864
+
+
 ## GitHub Actions
 
 ### [`code-serveweb-action`](https://github.com/gbraad-actions/code-serveweb-action)
