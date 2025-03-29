@@ -37,6 +37,9 @@ An extension that checks for and install my personal dotfiles
 An extension that automates `devenv.zsh` and `machine.zsh`.
 
 
+### [Extension pack](https://github.com/gbraad-vscode/extension-pack) - [Marketplace](https://marketplace.visualstudio.com/items?itemName=gbraad.extension-pack), [Open VSX Registry](https://open-vsx.org/extension/gbraad/extension-pack)
+
+
 ## devcontainer Features
 
 ### Tailscale
