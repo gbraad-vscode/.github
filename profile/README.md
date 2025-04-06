@@ -1,5 +1,5 @@
-Gerard Braad's VScode related repositories
-==========================================
+Gerard Braad's VSCode & VSCodium related repositories
+=====================================================
 
 
 ## Instructions
@@ -59,6 +59,14 @@ To know how to run devcontainers on CodeSpaces with `systemd` enabled, have a lo
 
 
 ## GitHub Actions
+
+### [Codium Server action](https://github.com/gbraad-actions/codium-server-action)
+
+```yaml
+- name: Codium Server
+  if: ${{ failure() }}
+  uses: gbraad-actions/codium-server-action@v1
+```
 
 ### [`code-serveweb-action`](https://github.com/gbraad-actions/code-serveweb-action)
 
