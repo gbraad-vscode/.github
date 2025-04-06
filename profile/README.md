@@ -1,6 +1,8 @@
 Gerard Braad's VSCode & VSCodium related repositories
 =====================================================
 
+These repositories provide instructions and extensions for use with [VS Code](https://github.com/microsoft/vscode), [VS Codium](https://github.com/VSCodium/) or other code-based editors.
+
 
 ## Instructions
 
