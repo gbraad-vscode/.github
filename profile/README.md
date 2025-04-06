@@ -4,7 +4,7 @@ Gerard Braad's VSCode & VSCodium related repositories
 
 ## Instructions
 
-### Run [`code` as systemd](https://github.com/gbraad-vscode/code-systemd) services
+### Run [`code` and `codium-server` as systemd](https://github.com/gbraad-vscode/code-systemd) services
 
 How to run `code serveweb` and `code tunnel` as systemd services
 
