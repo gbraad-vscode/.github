@@ -64,6 +64,23 @@ Install Tailscale during the devcontainer build process.
     }
 ```
 
+### cloudflared
+```json
+    "features": {
+        "ghcr.io/gbraad-vscode/devcontainer-features/cloudflared:latest": {}
+    }
+```
+
+### ssh-keys 
+```json
+    "features": {
+        "ghcr.io/gbraad-vscode/devcontainer-features/ssh-keys:latest": {
+            "username": "gbraad"
+        }
+    }
+```
+
+
 After which it is possible to use `tailscale up`.
 
 
