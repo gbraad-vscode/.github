@@ -64,6 +64,9 @@ Install Tailscale during the devcontainer build process.
     }
 ```
 
+After which it is possible to use `tailscale up`.
+
+
 ### cloudflared
 ```json
     "features": {
@@ -79,9 +82,6 @@ Install Tailscale during the devcontainer build process.
         }
     }
 ```
-
-
-After which it is possible to use `tailscale up`.
 
 
 ### Run with `systemd`-enabled
