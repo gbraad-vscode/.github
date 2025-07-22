@@ -41,6 +41,8 @@ An extension that automates `devenv.zsh` and `machine.zsh`.
 
 ### [Extension pack](https://github.com/gbraad-vscode/extension-pack) - [Marketplace](https://marketplace.visualstudio.com/items?itemName=gbraad.extension-pack), [Open VSX Registry](https://open-vsx.org/extension/gbraad/extension-pack)
 
+A bundled plugin that offers all my extensions, plus my most used ones, like color theme, Python, Notebooks, etc.
+
 
 ## devcontainer Features
 
