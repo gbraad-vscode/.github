@@ -94,7 +94,7 @@ To know how to run devcontainers on CodeSpaces with `systemd` enabled, have a lo
 ## GitHub Actions
 
 > [!NOTE]
-> Now part of [Ducttape Infra tools]()https://github.com/ducttape-infra/).
+> Now part of [Ducttape Infra tools](https://github.com/ducttape-infra/).
 
 ### [Codium Server action](https://github.com/gbraad-actions/codium-server-action)
 
