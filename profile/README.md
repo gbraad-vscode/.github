@@ -93,12 +93,15 @@ To know how to run devcontainers on CodeSpaces with `systemd` enabled, have a lo
 
 ## GitHub Actions
 
+> [!NOTE]
+> Now part of [Ducttape Infra tools]()https://github.com/ducttape-infra/).
+
 ### [Codium Server action](https://github.com/gbraad-actions/codium-server-action)
 
 ```yaml
 - name: Codium Server
   if: ${{ failure() }}
-  uses: gbraad-actions/codium-server-action@v1
+  uses: ducttape-actions/codium-server-action@v1
 ```
 
 ### [`code-serveweb-action`](https://github.com/gbraad-actions/code-serveweb-action)
@@ -106,7 +109,7 @@ To know how to run devcontainers on CodeSpaces with `systemd` enabled, have a lo
 ```yaml
     - name: Code serve web
       if: ${{ failure() }}
-      uses: gbraad-actions/code-serveweb-action@v1
+      uses: ducttape-actions/code-serveweb-action@v1
 ```
 
 ### [`code-tunnel-action`](https://github.com/gbraad-actions/code-tunnel-action)
@@ -114,5 +117,5 @@ To know how to run devcontainers on CodeSpaces with `systemd` enabled, have a lo
 ```yaml
     - name: Code tunnel
       if: ${{ failure() }}
-      uses: gbraad-actions/code-tunnel-action@v1
+      uses: ducttape-actions/code-tunnel-action@v1
 ```
